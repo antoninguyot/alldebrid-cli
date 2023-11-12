@@ -1,6 +1,6 @@
 module github.com/antoninguyot/alldebrid-cli
 
-go 1.21.0
+go 1.21
 
 require (
 	github.com/adrg/xdg v0.4.0
